@@ -1,8 +1,7 @@
 
 # class named Account is created
 class Account:
-    def __init__(self, acc, bal):
-      
+    def __init__(self, acc, bal):     
    # Encapsulation : The elements that should be protected cannot be accessed.
         self.__account = acc
         self.__balance = bal  
