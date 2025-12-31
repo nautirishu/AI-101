@@ -1,0 +1,9 @@
+[project]
+name = "ai-101"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "smolagents>=1.23.0",
+]
